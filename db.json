@@ -9,11 +9,6 @@
       "id": 2,
       "name": "Product B",
       "price": 200
-    },
-    {
-      "name": "Sản phẩm C updated 4",
-      "price": "300",
-      "id": 3
     }
   ]
 }
